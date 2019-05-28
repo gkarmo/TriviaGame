@@ -1,3 +1,24 @@
-.my-body {
+body {
     background-image: url("../images/background.gif");
+    
 }
+
+
+
+.game {
+    background-color:#ffff00;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    
+}
+
+
+.head {
+    font-family: 'Cute Font', cursive;
+    color: #5e3628;
+    font-size: 90px;
+    margin-bottom: 0px;
+
+}
+
