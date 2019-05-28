@@ -3,13 +3,16 @@ body {
     
 }
 
+.big-container {
+    margin:auto;
+    width:75%;
+}
+
 
 
 .game {
     background-color:#ffff00;
     text-align: center;
-    margin: auto;
-    width: 50%;
     
 }
 
