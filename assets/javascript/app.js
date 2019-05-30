@@ -102,11 +102,13 @@ $(document).ready(function(){
             
         }
 
-    
-
-
-        
-
        });
 
     });
+    //For the rest of my code 
+    // 1. Get radio button to make only one selection from each answer Array
+    // 2. Create a function that checks the value of the selected items 
+    // 3. if the value of the selected button is equal to the value of the right Answer property in my questionsArr         I then want to increment the correctAnswer variable
+    // 4.else if it does not match my right answer arry then I increment my wrongAnswer variable
+    // 5. else then I will increment my unanswered varaible if nothing is selected
+    // 6. which would then update my variables on my results page
