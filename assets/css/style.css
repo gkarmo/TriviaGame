@@ -6,14 +6,14 @@ body {
 .big-container {
     margin:auto;
     width:75%;
+    text-align: center;
 }
-
 
 
 .game {
     background-color:#ffff00;
     text-align: center;
-    
+    padding-bottom: 20px;
 }
 
 
@@ -24,4 +24,7 @@ body {
     margin-bottom: 0px;
 
 }
+
+
+
 
